@@ -1,7 +1,21 @@
+h1 {
+    font-size: 35px;
+    box-align: center;
+
+}
+
 body {
-    background-color: rgb(223, 144, 41);
+    background-color: rgb(212, 189, 157);
+    font-size: small;
 }
 
 p {
     color: brown;
+    font-size: 29px;
+    ;
+
+}
+
+img {
+    width: "25px";
 }
