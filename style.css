@@ -9,6 +9,14 @@ body {
     font-size: small;
 }
 
+.text {
+    font-family: comic sans-serif;
+
+    text-shadow: 3px 5px 7px blue;
+    text-align: center;
+
+}
+
 
 div ul,
 div li {
@@ -19,8 +27,14 @@ div li {
 }
 
 .button {
-    border-bottom: 50px;
-    font-size: 25px;
+    font-size: 30px;
     line-height: none;
+    border: 5px rgb(0, 33, 218) inset;
 
+}
+
+img {
+
+    display: block;
+    margin: auto;
 }
